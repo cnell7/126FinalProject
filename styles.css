@@ -1,0 +1,57 @@
+body {
+    font-family: 'Gotham';
+    height: 100vh;
+}
+
+.primary {
+    background-color: #5DB7DE;
+}
+
+.secondary {
+    background-color: #716A5C;
+}
+
+.accent {
+    background-color: #A39B8B;
+}
+
+.background {
+    background-color: #F1E9DB;
+}
+
+.text {
+    color: #07020D;
+}
+
+.headerOrFooter {
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+}
+
+.mainContent {
+    height: 60vh;
+}
+
+.mainContainer {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 4rem;
+    height: 3.2rem;
+    font-size: 2rem;
+}
+
+.submitButton {
+    font-size: 1.2rem;
+    background-color: #07020D;
+    color: #F1E9DB;
+    width: 10vh;
+    height: 4vh;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5DB7DE;
+    border-radius: 5px;
+}
